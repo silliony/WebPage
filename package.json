@@ -1,0 +1,14 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Silliony",
+  "license": "MIT"
+}
